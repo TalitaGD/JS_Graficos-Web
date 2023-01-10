@@ -1,2 +1,2 @@
-# JS_Graficos-Web
-Desenvolvendo graficos com Google Charts e JS
+# google-charts-1
+Repostório para os códigos dos gráficos feitos para o curso de Google Charts da Alura.
